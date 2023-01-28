@@ -1,0 +1,1 @@
+<img src="{{asset($globalSettings['app_logo'])}}" width="150" class="img-fluid" alt="Logo Image" {{ $attributes }} />

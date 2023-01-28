@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.actions button svg{
+float: left;
+}
+[x-cloak] {
+    display: none;
+}
